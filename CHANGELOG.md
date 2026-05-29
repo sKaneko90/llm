@@ -20,3 +20,4 @@
 - fix: clarify the setup steps
 - chore: clarify the setup steps
 - chore: link the usage section
+- chore: fix a small wording issue
